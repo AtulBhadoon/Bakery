@@ -23,7 +23,7 @@ baricon.addEventListener(
 $('.slider').slick(
     {
         infinite:true, //infinitetak chalane ke liye
-        slidesToShow:1,// kitni  img dikhani  hai
+        slidesToShow:2,// kitni  img dikhani  hai
         slidesToScroll:2, // kitni img slide karwani hai
         autoplay:true, //apne aap slide karwane ke liye
         autoplayspeed:2000,//slide ki speed btane ke liye
